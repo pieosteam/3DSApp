@@ -1,7 +1,3 @@
-# Pinapple App
+# PineappleApp
 
-##### Still in beta
-
-### A multi platform app for testing
-
----
+It is currently in an unfinished state.
